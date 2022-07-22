@@ -5,6 +5,7 @@ file: /courses/21m-734-lighting-design-for-the-theatre-fall-2003/2bd1f33d10f4fda
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection

@@ -5,6 +5,7 @@ file: /courses/21m-734-lighting-design-for-the-theatre-fall-2003/bd8657953148734
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: cue_syp_page_2.pdf
 uid: bd865795-3148-734a-f2e0-73a408790b77
 ---
 Cue Synopsis for the Voice of the Prairie Page 2
-

@@ -5,6 +5,7 @@ file: /courses/21m-734-lighting-design-for-the-theatre-fall-2003/c7d406e5d225c3e
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: emotional_response.pdf
 uid: c7d406e5-d225-c3e7-21cb-9293a138724c
 ---
 Assignment
-

@@ -5,6 +5,7 @@ file: /courses/21m-734-lighting-design-for-the-theatre-fall-2003/3b7829f5909e2d4
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: storyboard2.pdf
 uid: 3b7829f5-909e-2d4e-19c0-69bfe84f9c91
 ---
 Day Time in Forest; Night in Woods with Campfire
-
