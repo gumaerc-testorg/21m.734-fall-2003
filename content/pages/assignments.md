@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: ''
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: a872c644-9c75-9a50-a5e7-897e4755f796
 ---
@@ -28,7 +32,7 @@ ASSIGNMENTS
 "Introduction, Overview, Expectations" Availability
 {{< tdclose >}}
 {{< tdopen >}}
-Bring in 3 pictures in which Lighting is Integral Part of "Look" ([PDF]({{< baseurl >}}/resources/hw_3_pic-1))
+Bring in 3 pictures in which Lighting is Integral Part of "Look" ({{% resource_link 8be702a5-2d32-8811-bcd3-09f926643923 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -42,7 +46,7 @@ Decipher Pictures/Create Plot from them
 Discussion of Reading/Field trips
 {{< tdclose >}}
 {{< tdopen >}}
-Emotional Response to Piece of Music ([PDF]({{< baseurl >}}/resources/emo_response-1))
+Emotional Response to Piece of Music ({{% resource_link 839c4ab9-4493-d985-c059-319486c95a79 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -70,7 +74,7 @@ Meet in the Theater
 Focus Small Plot to Create Cues from
 {{< tdclose >}}
 {{< tdopen >}}
-Using the Plot we just Hung, which Lights Might you Use to make Cues for your Emotional Response ([PDF]({{< baseurl >}}/resources/lightlib03))
+Using the Plot we just Hung, which Lights Might you Use to make Cues for your Emotional Response ({{% resource_link b00f7372-5850-3697-5f7c-ab6a3ba48e29 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -96,7 +100,7 @@ Read between the Lines - Response, Notes, Questions/Reaction to Script
 Betrayal Design Meeting
 {{< tdclose >}}
 {{< tdopen >}}
-"Haiku" - Research, 3 Pictures, 1 Sketch, Adjectives ([PDF]({{< baseurl >}}/resources/haiku_assignment))
+"Haiku" - Research, 3 Pictures, 1 Sketch, Adjectives ({{% resource_link dc498959-3407-3a5c-576e-08a00edd2784 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -108,7 +112,7 @@ Betrayal Design Meeting
 A Basic Rep Plot for KLT - Working within Limitations/ Plot for Haiku
 {{< tdclose >}}
 {{< tdopen >}}
-Haiku - Cues, Special Lighting Position/Instrument/Color? ([PDF]({{< baseurl >}}/resources/haiku_assignment))
+Haiku - Cues, Special Lighting Position/Instrument/Color? ({{% resource_link dc498959-3407-3a5c-576e-08a00edd2784 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -202,7 +206,7 @@ Meet in the Theater
 Using ""Haiku Plot"" Cue Scenes with Actors - Timing/ Initiation/Contrast"
 {{< tdclose >}}
 {{< tdopen >}}
-"Research Specific Style Assigned - Pictures, Dates, imp't. Figures to Present in Class" ([PDF]({{< baseurl >}}/resources/style_research))
+"Research Specific Style Assigned - Pictures, Dates, imp't. Figures to Present in Class" ({{% resource_link 0273496c-0f39-8e4b-f290-bb7248f2981c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -230,7 +234,7 @@ Voice of the Prairie Discussion
 Additional Student Presentations as Necessary
 {{< tdclose >}}
 {{< tdopen >}}
-"Midterm Part 1 Plot VOP in KLT for Presentation with Magic Sheet, Areas, Pppwrk." ([PDF]({{< baseurl >}}/resources/midterm_part_1))
+"Midterm Part 1 Plot VOP in KLT for Presentation with Magic Sheet, Areas, Pppwrk." ({{% resource_link 277477ce-66cc-5c25-5c7d-d1721c3b92de "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -256,7 +260,7 @@ Presentations of Plots and Paperwork - Discussion of Assignment
 Theatre Architecture
 {{< tdclose >}}
 {{< tdopen >}}
-Midterm Part 2 - Plot VOP for Different Space with all Appropriate Paperwork ([PDF]({{< baseurl >}}/resources/plot_adaptation))
+Midterm Part 2 - Plot VOP for Different Space with all Appropriate Paperwork ({{% resource_link e96aeb81-0c68-a4b4-b8a6-61a2123c30a8 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -270,9 +274,9 @@ Cues and Storyboards and Cue Synopsis Where, When, Why
 {{< tdopen >}}
 Q Synopsis VOP  
   
-Student Work 1: ([PDF 1]({{< baseurl >}}/resources/cue_synopsis2)) ([PDF 2]({{< baseurl >}}/resources/cue_synopsis2a))  
+Student Work 1: ({{% resource_link 2bd1f33d-10f4-fda4-7b8c-bfbd34e82c15 "PDF 1" %}}) ({{% resource_link 64304b11-0d8e-f891-576c-2afb137e20d2 "PDF 2" %}})  
   
-Student Work 2: ([PDF 1]({{< baseurl >}}/resources/cue_syp_page_2)) ([PDF 2]({{< baseurl >}}/resources/cuesyp_p2_v2))
+Student Work 2: ({{% resource_link bd865795-3148-734a-f2e0-73a408790b77 "PDF 1" %}}) ({{% resource_link ac24127a-240c-2e5e-7cb7-dc3675840cc0 "PDF 2" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -374,9 +378,9 @@ Continue Hang and Focus - Attendance as Possible Throughout Day
 {{< tdopen >}}
 Cue Synopsis and Storyboard for Dance  
   
-Student Work 1: ([PDF 1]({{< baseurl >}}/resources/storyboard)) ([PDF 2]({{< baseurl >}}/resources/storyboard2))  
+Student Work 1: ({{% resource_link 54237874-6513-25f5-dcee-d6aa5fe69660 "PDF 1" %}}) ({{% resource_link 3b7829f5-909e-2d4e-19c0-69bfe84f9c91 "PDF 2" %}})  
   
-Student Work 2: ([PDF 1]({{< baseurl >}}/resources/storyboard2a)) ([PDF 2]({{< baseurl >}}/resources/storyboard2b))
+Student Work 2: ({{% resource_link cd1f940d-3523-dd61-04be-7a5406e48c53 "PDF 1" %}}) ({{% resource_link 91380782-a241-212f-a4de-6eec82e132f0 "PDF 2" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
