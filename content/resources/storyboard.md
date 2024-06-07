@@ -2,6 +2,7 @@
 content_type: resource
 description: David storytelling; Cliff; Campfire; David's farmyard
 file: /courses/21m-734-lighting-design-for-the-theatre-fall-2003/54237874651325f5dceed6aa5fe69660_storyboard.pdf
+file_size: 169348
 file_type: application/pdf
 learning_resource_types:
 - Assignments
