@@ -2,6 +2,7 @@
 content_type: resource
 description: Jail; Frankie's Parlor
 file: /courses/21m-734-lighting-design-for-the-theatre-fall-2003/cd1f940d3523dd6104be7a5406e48c53_storyboard2a.pdf
+file_size: 216942
 file_type: application/pdf
 learning_resource_types:
 - Assignments

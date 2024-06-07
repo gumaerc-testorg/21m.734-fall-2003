@@ -2,6 +2,7 @@
 content_type: resource
 description: Assignment
 file: /courses/21m-734-lighting-design-for-the-theatre-fall-2003/22aa3e313b458d74e31e6d5fcd8a30fc_homework_3_pictures.pdf
+file_size: 9912
 file_type: application/pdf
 learning_resource_types:
 - Assignments
