@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/21m-734-lighting-design-for-the-theatre-fall-2003/b00f7372585036975f7cab6a3ba48e29_lightlib03.pdf
+file: /ol-ocw-studio-app/courses/21m-734-lighting-design-for-the-theatre-fall-2003/b00f7372585036975f7cab6a3ba48e29_lightlib03.pdf
 file_size: 9912
 file_type: application/pdf
 learning_resource_types:

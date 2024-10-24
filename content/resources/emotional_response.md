@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Assignment
-file: /courses/21m-734-lighting-design-for-the-theatre-fall-2003/c7d406e5d225c3e721cb9293a138724c_emotional_response.pdf
+file: /ol-ocw-studio-app/courses/21m-734-lighting-design-for-the-theatre-fall-2003/c7d406e5d225c3e721cb9293a138724c_emotional_response.pdf
 file_size: 9613
 file_type: application/pdf
 learning_resource_types:
