@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Channel Surfing
-file: /ol-ocw-studio-app/courses/21m-734-lighting-design-for-the-theatre-fall-2003/91380782a241212fa4de6eec82e132f0_storyboard2b.pdf
+file: /courses/21m-734-lighting-design-for-the-theatre-fall-2003/91380782a241212fa4de6eec82e132f0_storyboard2b.pdf
 file_size: 104821
 file_type: application/pdf
 learning_resource_types:
