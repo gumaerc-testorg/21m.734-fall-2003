@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Day Time in Forest; Night in Woods with Campfire
-file: /courses/21m-734-lighting-design-for-the-theatre-fall-2003/3b7829f5909e2d4e19c069bfe84f9c91_storyboard2.pdf
+file: /ol-ocw-studio-app/courses/21m-734-lighting-design-for-the-theatre-fall-2003/3b7829f5909e2d4e19c069bfe84f9c91_storyboard2.pdf
 file_size: 186741
 file_type: application/pdf
 learning_resource_types:
